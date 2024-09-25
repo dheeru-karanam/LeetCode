@@ -1,2 +1,2 @@
 # LeetCode
-This repo is for making myself consistent in solving problems from leetCode.
+I created this repo to make myself consistent in solving problems from leetCode.
